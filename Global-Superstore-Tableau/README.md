@@ -38,11 +38,10 @@ Filters, parameters, calculated fields and Tableau actions
 ## 📌 KPI cards
 The dashboard currently displays the following overall KPIs:
 KPI                             Value
-
-💰 Sales                     $12.64M
-📦 Quantity                   178.31K
-🔄 Returned Orders              2,033
-🚚 Average Delivery Days            4
+* 💰 Sales                     $12.64M
+* 📦 Quantity                   178.31K
+* 🔄 Returned Orders              2,033
+* 🚚 Average Delivery Days            4
 They can change when filters/actions are applied.
 
 ## 📈 Dashboard Analysis
