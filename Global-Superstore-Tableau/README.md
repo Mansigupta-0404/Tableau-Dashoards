@@ -42,10 +42,10 @@ KPI                             Value
 * 📦 Quantity                   178.31K
 * 🔄 Returned Orders              2,033
 * 🚚 Average Delivery Days            4
+
 They can change when filters/actions are applied.
 
 ## 📈 Dashboard Analysis
-
 #### 1. 🌎 Sales by Region
 The Sales by Region visualization uses a world map with bubbles representing sales performance across geographical regions.
 The map allows users to compare regional sales visually.
