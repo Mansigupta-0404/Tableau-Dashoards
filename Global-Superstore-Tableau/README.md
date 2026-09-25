@@ -133,23 +133,22 @@ These interactions make the dashboard more useful for exploratory analysis inste
 
 ### ❓ Business Questions Answered by the Dashboard
 This dashboard can answer questions such as:
-What is the total sales value?
-How many units were sold?
-How many orders were returned?
-What is the average delivery time?
-Which region has the strongest sales?
-Which country contributes the most sales?
-Which market contributes the most sales?
-Which customer segment contributes the most sales?
-Which sub-category has the highest sales?
-Which sub-category has the highest profit
-How does quantity relate to sales and profit?
-Which products generate the highest sales?
-Which products generate losses?
-Who are the top customers by sales?
-How does performance change by year?
-How does selecting a region, segment, or sub-category affect the dashboard?
-
+* What is the total sales value?
+* How many units were sold?
+* How many orders were returned?
+* What is the average delivery time?
+* Which region has the strongest sales?
+* Which country contributes the most sales?
+* Which market contributes the most sales?
+* Which customer segment contributes the most sales?
+* Which sub-category has the highest sales?
+* Which sub-category has the highest profit
+* How does quantity relate to sales and profit?
+* Which products generate the highest sales?
+* Which products generate losses?
+* Who are the top customers by sales?
+* How does performance change by year?
+* How does selecting a region, segment, or sub-category affect the dashboard?
 ### 🚀 Skills Demonstrated
 This project demonstrates practical skills in:
 Tableau Public, Data visualization, Business intelligence, Dashboard development, Interactive dashboard design, Tableau actions, Filters, KPI creation, Geographic analysis, Customer analysis, Product analysis, Profitability analysis, Sales analysis, Data storytelling
