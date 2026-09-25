@@ -1,11 +1,21 @@
 # 🌍 Global Superstore Sales Dashboard -- Tableau 
 
 ## 📊 Project Overview
-
 This project is an interactive Global Superstore Sales Dashboard developed using Tableau Public.
 The dashboard converts the Global Superstore dataset into an interactive business intelligence report covering:
 Sales, Profit, Quantity, Returned orders, Average delivery days, Region-wise performance, Market-wise performance, Country-wise performance, Segment-wise sales, Sub-category performance, Product performance, Customer performance
 The dashboard also uses Tableau actions so that users can interact with one chart and explore the related information across other visualizations.
+<h2>📥 Project Files</h2>
+<p>
+<a href="Dashboard%20Image1.png">
+📷 Download Dashboard Image
+</a>
+</p>
+<p>
+<a href="Global%20superstore%20Sales%20dashboard%20tableau.twb">
+📊 Download Tableau Workbook
+</a>
+</p>
 
 ## 🎯 Project Objectives
 The main objectives of this dashboard are to:
